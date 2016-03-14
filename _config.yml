@@ -1,0 +1,28 @@
+name: Robert West
+favicon: null
+layout_spectrum: 0.6627031147945672
+typography_spectrum: 0.2865913691930473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.41041330085135996
+  lightness: 0.5978993331082165
+  saturation: 0.98183174431324
+  rhythmicContrast: 0.5013682635035366
+purpose: []
