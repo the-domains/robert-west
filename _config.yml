@@ -1,6 +1,6 @@
 name: Robert West
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.2546
 typography_spectrum: 0.54206
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#df4312'
     - '#443f3c'
     - '#4078a3'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
