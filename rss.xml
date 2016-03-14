@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robert West]]></title>
         <description><![CDATA[Robert West]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-west/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:34:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 20:49:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robert-west/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2252c7d-5ab9-41d8-9242-685df2cabf92.jpg">]]></description>
+            <link>https://thegrid.ai/robert-west/f9534d7e-b804-4d27-b2b7-f645123bf685/index.html</link>
+            <guid isPermaLink="false">f9534d7e-b804-4d27-b2b7-f645123bf685</guid>
+            <pubDate>Mon, 14 Mar 2016 20:48:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37e8109c-5ef4-422d-9c4b-7eedb26fbaa2.jpg">]]></description>
-            <link>undefinedc29d38a8-1741-4f47-97ea-3f5d9ebaf459/index.html</link>
+            <link>https://thegrid.ai/robert-west/c29d38a8-1741-4f47-97ea-3f5d9ebaf459/index.html</link>
             <guid isPermaLink="false">c29d38a8-1741-4f47-97ea-3f5d9ebaf459</guid>
             <pubDate>Mon, 14 Mar 2016 20:33:47 GMT</pubDate>
         </item>
